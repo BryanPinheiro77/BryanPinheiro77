@@ -1,10 +1,10 @@
 ## Olá! eu sou o Bryan Pinheiro!
 
 <a href="https://github.com/BryanPinheiro77/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/BryanPinheiro77/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanPinheiro77&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 
