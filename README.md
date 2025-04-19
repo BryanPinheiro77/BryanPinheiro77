@@ -1,6 +1,6 @@
 ## Olá! eu sou o Bryan Pinheiro!
 
-[!Anurag's GitHub stats]<a href="https://github.com/BryanPinheiro77/github-readme-stats">]
+[!Bryan's GitHub stats]<a href="https://github.com/BryanPinheiro77/github-readme-stats">]
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/BryanPinheiro77/convoychat">
