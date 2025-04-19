@@ -1,5 +1,6 @@
 ## Olá! eu sou o Bryan Pinheiro!
 **Seja bem-vindo ao meu perfil!**
+<br/>
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou focado no desenvolvimento back-end com Java e Spring Boot, mas também tenho conhecimentos em front-end e estou sempre explorando novas linguagens e ferramentas.
 Gosto de criar projetos que resolvam problemas reais, seja por conta própria ou em equipe. Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções criativas, funcionais e com impacto positivo.
 
