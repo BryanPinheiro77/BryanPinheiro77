@@ -18,6 +18,8 @@ Gosto de criar projetos que resolvam problemas reais, seja por conta própria ou
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Angular" title="Angular" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="MySql" title="MySql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <br/>
 
  ---
