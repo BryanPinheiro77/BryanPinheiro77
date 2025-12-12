@@ -1,8 +1,12 @@
-## Olá! eu sou o Bryan Pinheiro!
-**Seja bem-vindo ao meu perfil!**
-<br/>
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, estou focado no desenvolvimento back-end com Java, mas também tenho conhecimentos em front-end e estou sempre explorando novas linguagens e ferramentas.
-Gosto de criar projetos que resolvam problemas reais, seja por conta própria ou em equipe. Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções criativas, funcionais e com impacto positivo.
+# 👋 Hi! I'm Bryan Pinheiro
+
+**Junior Back-End / Full Stack Developer**  
+Focused on **Java, Spring Boot, Node.js and React** | São Paulo, Brazil
+
+I’m currently studying **Systems Analysis and Development (Senac)** — expected graduation **Dec/2026** — and building real-world projects involving **APIs**, **business logic**, **dashboards**, **inventory control**, and **internal management systems**.
+
+I enjoy transforming real problems into functional and impactful solutions.  
+My goal is to keep evolving as a developer by improving code quality, learning new technologies, and contributing to professional teams.
 
 
   <a href="https://instagram.com/bryansvz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,10 +30,10 @@ Gosto de criar projetos que resolvam problemas reais, seja por conta própria ou
  ---
 ## 📊 Estatísticas
 <a href= "https://github.com/BryanPinheiro77/github-readme-stats" />
- <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=tokyonight" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/BryanPinheiro77/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanPinheiro77&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanPinheiro77&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 
