@@ -31,8 +31,8 @@ My goal is to keep evolving as a developer by improving code quality, learning n
  ---
 ## 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanPinheiro77&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=bryanpinheiro77&rank_icon=github&show_icons=true&theme=dark&count_private=true&include_all_commits=true">
+  <img height="150" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=bryanpinheiro77&layout=compact&theme=dark&count_private=true&include_all_commits=true">
 </p>
 
 
