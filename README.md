@@ -68,11 +68,11 @@ i like understanding what happens beyond the abstraction and building systems th
 <p align="center">
   <img
     height="150"
-    src="https://github-stats-extended.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=BryanPinheiro77&show_icons=true&theme=dark&hide_title=true&hide_border=true"
   >
   <img
     height="150"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BryanPinheiro77&layout=compact&theme=github_dark&hide_title=true&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BryanPinheiro77&layout=compact&theme=dark&hide_title=true&hide_border=true"
   >
 </p>
 
