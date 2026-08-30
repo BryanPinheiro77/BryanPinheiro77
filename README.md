@@ -66,17 +66,14 @@ i like understanding what happens beyond the abstraction and building systems th
 ## stats
 
 <p align="center">
-
   <img
-    height="150"
-    src="https://github-stats-extended.vercel.app/api?username=BryanPinheiro77&show_icons=true&include_all_commits=true&theme=dark"
+    width="420"
+    src="https://github-stats-extended.vercel.app/api?username=BryanPinheiro77&show_icons=true&include_all_commits=true&theme=dark&hide_title=true"
   />
-
   <img
-    height="150"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BryanPinheiro77&layout=compact&theme=dark"
+    width="320"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=BryanPinheiro77&layout=compact&theme=dark&hide_title=true"
   />
-
 </p>
 
 ---
