@@ -5,7 +5,7 @@
 `software engineer — backend / ai / systems`
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4b/0e/fc/4b0efc8986fa0d819c823cdcbb5c3121.jpg" width="900">
+  <img src="https://i.pinimg.com/736x/4b/0e/fc/4b0efc8986fa0d819c823cdcbb5c3121.jpg" width="750">
 </p>
 
 software engineer at **aiia labs**, currently building with **go, next.js, aws and llms**.
